@@ -95,7 +95,7 @@ Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance i
 
 **Source: [Our own memories of the Twin Towers / World Trade Centre UNSEEN FOOTAGE](https://www.youtube.com/watch?v=BAsLmRzB_nA)**
 
-- [The Holly And The Ivy](https://www.youtube.com/watch?v=w2ve-umx_-E) (yyyy-mm-dd) (World Trade Center Plaza Muzak)
+- [The Holly And The Ivy](https://www.youtube.com/watch?v=w2ve-umx_-E) (yyyy-mm-dd) (World Trade Center Plaza Muzak)  
   Friday 01 dec 2000
 
 **Source: Unknown**
