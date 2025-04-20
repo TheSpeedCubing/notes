@@ -28,10 +28,7 @@
 | 1                | Concourse                     | 22           |
 
 
-
-
-
-# Size
+# Properties
 
 1 height 1368  
 1 total height 1776  
@@ -40,4 +37,5 @@
 4/5/6 height 118  
 3 height 242  
 
+# Other
 One Liberty Plaza 743x160x234
