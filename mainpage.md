@@ -41,6 +41,9 @@
 - **Email**  
   [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
   
+- **PGP**  
+  068894885BC5D33EFB343CEEF53A810E7079BAAA
+  
 ### 個人筆記/文件
 
 - **Notes (個人筆記)**  
