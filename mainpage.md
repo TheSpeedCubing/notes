@@ -41,9 +41,9 @@
 - **Email**  
   [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
   
-- **GPG**  
-  - GPG Public Key: https://speedcubing.top/pub.asc
-  - Fingerprint: 068894885BC5D33EFB343CEEF53A810E7079BAAA
+- **PGP**  
+  - PGP Public Key: https://speedcubing.top/pub.asc
+  - Fingerprint: 7AEEEBC606BBCAB243C3E9C86D8E805D22322628
   
 ### 個人筆記/文件
 
