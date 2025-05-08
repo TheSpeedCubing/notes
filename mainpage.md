@@ -10,7 +10,7 @@
   https://speedcubing.top/fb_fan
   
 - **GitHub**  
-  https://github.com/speedcubing-top
+  https://github.com/speedcubing-top/
 
 - **QQ**  
   534347346
@@ -21,12 +21,15 @@
 ---
 
 # Services | 服務
+
+- **GIT**
+  https://git.speedcubing.top/
   
 - **Discord Bot**  
   https://speedcubing.top/discordbot
   
 - **Maven Repository Server**  
-  https://repo.speedcubing.top
+  https://repo.speedcubing.top/
 
 - **Minecraft Server**  
   speedcubing.top
@@ -36,7 +39,7 @@
 # Personal | 個人
   
 - **GitHub**  
-  https://github.com/TheSpeedCubing
+  https://github.com/TheSpeedCubing/
 
 - **Email**  
   [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
@@ -48,10 +51,10 @@
 ### 個人筆記/文件
 
 - **Notes (個人筆記)**  
-  https://speedcubing.top/notes  
+  https://speedcubing.top/notes/  
   
 - **HackMD (大多為技術文件)**  
-  https://hackmd.io/@speedcubing
+  https://hackmd.io/@speedcubing/
 
 ### 音樂/人文
 
