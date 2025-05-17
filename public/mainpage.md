@@ -43,7 +43,7 @@
 
 - **Email**  
   [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
-  
+
 - **PGP**  
   - PGP Public Key: https://speedcubing.top/pub.asc
   - Fingerprint: 7AEEEBC606BBCAB243C3E9C86D8E805D22322628
@@ -59,7 +59,7 @@
 ### 音樂/人文
 
 - **World Trade Center Muzak (紐約世貿環境音樂)**  
-  https://hackmd.io/@speedcubing/WTCMuzak
+  https://speedcubing.top/notes/wtc/wtcmusic
 
 - **pre-21st 好聽的廣東歌專輯整理**  
   https://hackmd.io/@speedcubing/guangdong
