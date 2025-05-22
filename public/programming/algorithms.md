@@ -1,45 +1,3 @@
-# Binary Tree
-## Traversal Methods O(N)
-PreOrder: Root Left Right
-InOrder: Left Root Right
-PostOrder: Left Right Root
-Level-Order: BFS
-
-## Types
-Full: 除了Leaf以外其他Node都有兩個Child
-Complete: 只有最後一層右側不完整
-Perfect: 完整
-
-## Right Subtree Height:
-Full: N-1
-Complete: N-2
-Perfect: N-1
-
-## Binary Search Tree (BST)
-InOrder會小到大輸出
-
-Lookup O(logN)
-Insert O(logN)
-Delete O(logN)
-
-# Heap
-
-條件:
-1. 是Complete Binary Tree.
-2. Parent永遠會 <= / >= Child
-
-# Binary Heap
-Lookup O(N)
-Insert O(1)
-Find Max O(1)
-Delete Min O(logN)
-
-# Min Heap / Max Heap
-
-# Min-Max Heap
-Insert O(logN)
-Delete O(logN)
-
 # Union-Find
 ```c
 map<int,int> parent;
@@ -71,11 +29,10 @@ void unionSet(int a, int b) {
 	
     if(rank[r1] < rank[r2]) {
         parent[r1] = r2;
+    } else if(rank[r1] > rank[r2]) {
+        parent[r2] = r1;
     } else {
         parent[r2] = r1;
-    }
-	
-    if(rank[r1] == rank[r2]) {
         rank[r1]++;
     }
 }

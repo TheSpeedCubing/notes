@@ -12,8 +12,8 @@
 **2024-09-25** - (指標/結構) C/C++ Pointer & Struct  
 -> https://speedcubing.top/notes/programming/ptrstruct
 
-**2024-09-12** - (資料結構) Data Structure  
--> https://speedcubing.top/notes/programming/ds
+**2024-09-12** - Algorithms  
+-> https://speedcubing.top/notes/programming/algorithms
 
 ## World Trade Center
 
@@ -26,4 +26,4 @@
 ## Rubik's Cube
 
 **2024-08-17** - 3x3x3魔術方塊新手教學 (3x3x3 Rubik's Cube, Beginners Method)  
--> https://hackmd.io/@speedcubing/3x3begineer
+-> https://hackmd.io/@speedcubing/cubing
