@@ -14,8 +14,12 @@
 
 **2025-05-04** - GPG Usage Guide  
 -> https://speedcubing.top/notes/dev/gpg
+
 **2025-03-05** - Disk Notes  
 -> https://speedcubing.top/notes/dev/disk
+
+**2024-09-01** - MySQL/MariaDB/SQL  
+-> https://speedcubing.top/notes/dev/mysql
 
 ## Programming
 
