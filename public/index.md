@@ -10,9 +10,14 @@
 **2025-04-07** - Official Image: registry  
 -> https://speedcubing.top/notes/docker/registry
 
-## Programming Related
-**2025-03-05** - Disk Guide  
--> https://speedcubing.top/notes/programming/disk
+## Dev
+
+**2025-05-04** - GPG Usage Guide  
+-> https://speedcubing.top/notes/dev/gpg
+**2025-03-05** - Disk Notes  
+-> https://speedcubing.top/notes/dev/disk
+
+## Programming
 
 **2024-09-25** - (指標/結構) C/C++ Pointer & Struct  
 -> https://speedcubing.top/notes/programming/ptrstruct
