@@ -6,24 +6,12 @@
 - **Email**  
   [contact@speedcubing.top](mailto:contact@speedcubing.top)
   
-- **Facebook**  
-  https://speedcubing.top/fb_fan
-  
 - **GitHub**  
   https://github.com/speedcubing-top/
-
-- **QQ**  
-  534347346
-  
-- **Twitter**  
-  https://speedcubing.top/twitter
 
 ---
 
 # Services | 服務
-
-- **GIT**  
-  https://git.speedcubing.top/
   
 - **Discord Bot**  
   https://speedcubing.top/discordbot
