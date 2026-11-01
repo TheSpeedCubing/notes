@@ -1,3 +1,7 @@
+---
+date:2025-05-04
+---
+
 # GPG Usage Guide
 
 ## Generate Key using gpg

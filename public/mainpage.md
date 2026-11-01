@@ -1,4 +1,18 @@
-# speedcubing.top community | 社群
+# Personal
+
+- **Email**  
+  [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
+  
+- **GitHub**  
+  https://github.com/TheSpeedCubing/
+
+- **PGP**  
+  - PGP Public Key: https://speedcubing.top/pub.asc
+  - Fingerprint: 7AEEEBC606BBCAB243C3E9C86D8E805D22322628
+
+---
+
+# speedcubing.top
 
 - **Discord Server**  
   https://speedcubing.top/discord
@@ -11,7 +25,7 @@
 
 ---
 
-# Services | 服務
+# Services
   
 - **Discord Bot**  
   https://speedcubing.top/discordbot
@@ -21,33 +35,3 @@
 
 - **Minecraft Server**  
   speedcubing.top
-
----
-
-# Personal | 個人
-  
-- **GitHub**  
-  https://github.com/TheSpeedCubing/
-
-- **Email**  
-  [speedcubing@speedcubing.top](mailto:speedcubing@speedcubing.top)
-
-- **PGP**  
-  - PGP Public Key: https://speedcubing.top/pub.asc
-  - Fingerprint: 7AEEEBC606BBCAB243C3E9C86D8E805D22322628
-  
-### 個人筆記/文件
-
-- **Notes (個人筆記)**  
-  https://speedcubing.top/notes/  
-  
-- **HackMD (大多為技術文件)**  
-  https://hackmd.io/@speedcubing/
-
-### 音樂/人文
-
-- **World Trade Center Muzak (紐約世貿環境音樂)**  
-  https://speedcubing.top/notes/wtc/wtcmusic
-
-- **pre-21st 好聽的廣東歌專輯整理**  
-  https://hackmd.io/@speedcubing/guangdong

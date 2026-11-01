@@ -1,0 +1,43 @@
+---
+date: 2025-01-30 19:33:00
+---
+
+# Overview
+
+本文件放置我常用的ipmitool指令
+
+## 自動風扇速度
+
+x3550m5:
+```
+ipmitool raw 0x3a 0x07 0xff 0x01
+```
+```
+ipmitool raw 0x3a 0x07 0xff 0x00
+```
+
+r730:
+
+```
+ipmitool raw 0x30 0x30 0x01 0x01
+```
+```
+ipmitool raw 0x30 0x30 0x01 0x00
+```
+
+## 手動設定速度
+
+x3550m5:
+```
+ipmitool raw 0x3a 0x07 0xff <speed> 0x01
+```
+r730:
+```
+ipmitool raw 0x30 0x30 0x02 0xff <speed>
+```
+
+## 查看 sensor list
+
+```
+ipmitool sensor list
+```
