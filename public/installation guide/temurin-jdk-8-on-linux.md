@@ -1,7 +1,7 @@
 ---
 date: 2026-02-08 15:38:00
 slug: c421c94a
-title: [Installation Guide] Temurin jdk 8 on Linux
+title: "[Installation Guide] Temurin jdk 8 on Linux"
 ---
 
 ### Temurin jdk 8
