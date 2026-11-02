@@ -1,5 +1,5 @@
 ---
-title: [Installation Guide] Apache Maven (Windows)
+title: "[Installation Guide] Apache Maven (Windows)"
 date: 2026-02-29 04:57:00
 slug: 7eced442
 ---
