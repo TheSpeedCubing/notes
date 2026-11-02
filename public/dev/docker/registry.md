@@ -1,4 +1,6 @@
 ---
+title: Self host Docker Registry
+date: 2025-04-06 02:50:00
 slug: 8e16e353
 ---
 
