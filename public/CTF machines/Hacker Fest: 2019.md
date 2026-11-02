@@ -1,5 +1,6 @@
 ---
 date: 2026-06-26
+slug: cbb0211a
 ---
 
 https://www.vulnhub.com/entry/hacker-fest-2019,378/

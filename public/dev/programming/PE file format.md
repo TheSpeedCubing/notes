@@ -1,5 +1,6 @@
 ---
 date: 2025-09-29 17:50:00
+slug: 677f92a3
 ---
  
 ## Windows `winnt.h` 型別

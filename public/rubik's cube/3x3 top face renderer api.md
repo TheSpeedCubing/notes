@@ -1,6 +1,7 @@
 ---
 title: cube.speedcubing.workers.dev
 date: 2026-02-03 17:46:00
+slug: 60ef69b1
 ---
 
 

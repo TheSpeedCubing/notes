@@ -1,5 +1,6 @@
 ---
-date:2025-05-04
+date: 2025-05-04
+slug: 2bb5482e
 ---
 
 # GPG Usage Guide

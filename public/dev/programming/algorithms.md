@@ -1,3 +1,7 @@
+---
+slug: 51617426
+---
+
 # Union-Find
 ```c
 map<int,int> parent;

@@ -1,5 +1,6 @@
 ---
 date: 2026-06-26
+slug: 01a97cb5
 ---
 
 https://www.vulnhub.com/entry/sunset-noontide,531/

@@ -1,3 +1,7 @@
+---
+slug: 980f0f60
+---
+
 # Pointer
 ### ```*``` 
 declare a pointer variable

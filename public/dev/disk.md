@@ -1,3 +1,7 @@
+---
+slug: 64d38913
+---
+
 ## Example
 - PVE 
   - /dev/sda `LVM`

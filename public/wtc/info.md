@@ -1,3 +1,7 @@
+---
+slug: 6208db2a
+---
+
 # Floor Information
 
 | Number           | Function                      | Height (ft) |

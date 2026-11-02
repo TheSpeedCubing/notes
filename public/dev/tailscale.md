@@ -1,6 +1,7 @@
 ---
 title: "[Tutorial] Tailscale - add Linux Server"
 date: 2025-10-17 20:18
+slug: f17ba55b
 ---
 
 ### Sign up Tailscale
