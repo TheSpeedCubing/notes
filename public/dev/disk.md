@@ -1,5 +1,7 @@
 ---
+date: 2025-06-07 17:14:41
 slug: 64d38913
+title: Disk / FS
 ---
 
 ## Example
