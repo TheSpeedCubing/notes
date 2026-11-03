@@ -1,7 +1,7 @@
 ---
 date: 2025-06-19 13:45:00
 title: Avahi
-slug: 72f1cbce
+slug: 38f756f3
 ---
 
 All
