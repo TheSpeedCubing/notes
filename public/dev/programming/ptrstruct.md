@@ -1,5 +1,7 @@
 ---
+date: 2025-02-17 14:30:28
 slug: 980f0f60
+title: Pointer & Struct
 ---
 
 # Pointer
