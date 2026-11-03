@@ -6,8 +6,6 @@ slug: f0e74ae1
 
 ## Overview
 
-[toc]
-
 ### **光碟規格（Disc Format）**
 
 - **Red Book CD**
