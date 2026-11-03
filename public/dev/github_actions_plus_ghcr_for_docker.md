@@ -1,7 +1,7 @@
 ---
 date: 2025-06-08 11:49:00
 slug: f6905dc6
-title: [Tutorial] Github Actions + ghcr for Docker
+title: "[Tutorial] Github Actions + ghcr for Docker"
 ---
 
 # Overview
