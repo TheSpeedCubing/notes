@@ -15,24 +15,18 @@
 
 # speedcubing.top
 
-- **Discord Server**
-  https://speedcubing.top/discord
+- **Discord Server -** https://speedcubing.top/discord
 
-- **Email**
-  [contact@speedcubing.top](mailto:contact@speedcubing.top)
+- **Email -** [contact@speedcubing.top](mailto:contact@speedcubing.top)
 
-- **GitHub**
-  https://github.com/speedcubing-top/
+- **GitHub -** https://github.com/speedcubing-top/
 
 ---
 
 # Services
 
-- **Discord Bot**
-  https://speedcubing.top/discordbot
+- **Discord Bot -** https://speedcubing.top/discordbot
 
-- **Maven Repository Server**
-  https://repo.speedcubing.top/
+- **Maven Repository Server -** https://repo.speedcubing.top/
 
-- **Minecraft Server**
-  speedcubing.top
+- **Minecraft Server -** speedcubing.top
